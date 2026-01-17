@@ -74,6 +74,30 @@ MySQL · Jupyter Notebook
 
 ---
 
+```markdown
+## Education
+
+**Academy of Technology**  
+**Bachelor of Technology (B.Tech) – Electrical Engineering**  
+*Jul 2020 – Jun 2024*  
+**DGPA:** 8.71  
+
+---
+
+**St. Augustine’s Day School, Barrackpore**  
+**ISC Examination** | Kolkata, India  
+*Apr 2019 – Mar 2020*  
+**Percentage:** 89.75%  
+
+---
+
+**St. Claret School, Barrackpore**  
+**ICSE Examination** | Kolkata, India  
+*Apr 2017 – Mar 2018*  
+**Percentage:** 86.25%  
+```
+
+
 # GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=DrishitaDutta&theme=dark&hide_border=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=DrishitaDutta&theme=dark&hide_border=false)<br/>
